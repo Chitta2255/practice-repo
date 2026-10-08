@@ -31,7 +31,7 @@
 | 📦 **Data Structures** | `List.py`, `Tuple.py`, `Set.py`, `Dictionary.py`, `StringMethodP1.py` | Core collections, slicing, and built-in methods |
 | ⚙️ **Functions & OOP** | `FunctionPratice.py`, `FunctionPart2.py`, `OopsPratice.py` | Reusable logic, classes, objects, and inheritance |
 | 🎯 **Problem Sets** | `Pratice 1.py` → `Pratice 6.py` | Hands-on algorithmic and logic-building exercises |
-| 🍕 **Mini Projects** | `MiniProject.py`, `PizzaController.py` | Interactive CLI calculator and project scripts |
+| 🍕 **Mini Projects** | `MiniProject.py` | Interactive CLI calculator and project scripts |
 
 <br/>
 
